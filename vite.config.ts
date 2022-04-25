@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/conver/' : '/'
+  base: process.env.NODE_ENV === 'production' ? '/cover/' : '/'
 })
