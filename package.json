@@ -1,0 +1,28 @@
+{
+  "name": "cover",
+  "version": "1.0.0",
+  "description": "custom cover quickly.",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vite": "^2.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchunhui/cover.git"
+  },
+  "keywords": [
+    "cover"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuchunhui/cover/issues"
+  },
+  "homepage": "https://github.com/fuchunhui/cover#readme"
+}
